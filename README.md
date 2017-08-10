@@ -31,5 +31,25 @@ This repository contains my work for Udacity's Deep Learning Nanodegree program,
 * [Intro to TFLearn](): A couple introductions to a high-level library for building neural networks.
 
 ## Courses taken:
+* Neural Networks
+* Deep Neural Networks
+* Convolutional Neural Networks (CNNs)
+* Recurrent Neural Networks (RNNs)
+* Generative Adversarial Networks (GANs)
 
 ## Skills acquired:
+* TensorFlow, Keras
+* Cloud computing (AWS, GCE, FloydHub)
+* Weight initialization
+* Sentiment Analysis
+* Image Classification
+* Image Generation
+* Autoencoders
+* Transfer Learning
+* Embeddings and Word2vec
+* Style Transfer
+* Text summarization
+* Sequence to sequence
+* Dynamic memory networks
+* Machine translation
+* Semi-Supervised Learning
