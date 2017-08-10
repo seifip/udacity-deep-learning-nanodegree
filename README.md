@@ -38,18 +38,20 @@ This repository contains my work for Udacity's Deep Learning Nanodegree program,
 * Generative Adversarial Networks (GANs)
 
 ## Skills acquired:
-* TensorFlow, Keras
+* TensorFlow, Keras, TensorBoard
 * Cloud computing (AWS, GCE, FloydHub)
 * Weight initialization
-* Sentiment Analysis
-* Image Classification
-* Image Generation
+* Sentiment analysis
+* Image classification
+* Image generation
 * Autoencoders
-* Transfer Learning
-* Embeddings and Word2vec
-* Style Transfer
+* Transfer learning
+* Embeddings and word2vec
+* Style transfer
 * Text summarization
 * Sequence to sequence
 * Dynamic memory networks
 * Machine translation
-* Semi-Supervised Learning
+* Semi-supervised learning
+* Reinforcement learning
+* One-shot learning
