@@ -6,11 +6,11 @@ This repository contains my work for Udacity's Deep Learning Nanodegree program,
 
 ### Projects:
 
-* **WIP** _Project 1:_ [Your First Neural Network](): Implement a neural network in Numpy to predict bike rentals.
-* **WIP** _Project 2:_ [Image classification](): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
-* **WIP** _Project 3:_ [Text Generation](): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
-* **WIP** _Project 4:_ [Machine Translation](): Train a sequence to sequence network for English to French translation (on a simple dataset)
-* **WIP** _Project 5:_ [Face Generation](): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
+* _Project 1:_ [Your First Neural Network](https://github.com/seifip/udacity-deep-learning-nanodegree/tree/master/!P1%20-%20First%20Neural%20Network): Implement a neural network in Numpy to predict bike rentals.
+* **WIP** _Project 2:_ [Image classification](https://github.com/seifip/udacity-deep-learning-nanodegree/tree/master/!P2%20-%20Image%20Classification): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
+* **WIP** _Project 3:_ [Text Generation](https://github.com/seifip/udacity-deep-learning-nanodegree/tree/master/!P3%20-%20TV%20Script%20Generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
+* **WIP** _Project 4:_ [Machine Translation](https://github.com/seifip/udacity-deep-learning-nanodegree/tree/master/!P4%20-%20Language%20Translation): Train a sequence to sequence network for English to French translation (on a simple dataset)
+* **WIP** _Project 5:_ [Face Generation](https://github.com/seifip/udacity-deep-learning-nanodegree/tree/master/!P5%20-%20Face%20Generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
 
 ## Tutorials:
 
